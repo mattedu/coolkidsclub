@@ -9,3 +9,4 @@ git clone https://github.com/mattedu/coolkidsclub.git
 * Hi
 * Hello
 * Greetings
+* Hi again
