@@ -1,4 +1,4 @@
-# Cool Kids Club Of MERICA
+# Cool Kids Club Of MERICA RAWR
 
 to install my repo do this:
 
